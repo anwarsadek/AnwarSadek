@@ -1,3 +1,6 @@
+![Anwar Sadek Banner](https://raw.githubusercontent.com/AnwarSadek/AnwarSadek/refs/heads/main/1788409229182.jpg)
+
+
 # 👋 হ্যালো, আমি Anwar Sadek
 
 ### 🎓 Diploma in Computer Science & Technology Student | 🌐 Aspiring Full-Stack Web Developer
