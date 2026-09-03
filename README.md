@@ -1,69 +1,21 @@
 ![Anwar Sadek Banner](https://raw.githubusercontent.com/AnwarSadek/AnwarSadek/refs/heads/main/1788409229182.jpg)
+<h1 align="center">Hi 👋, I'm Anwar Sadek</h1>
+<h3 align="center">Aspiring Full-Stack Developer • Web Development Learner</h3>
 
+- 🌱 I’m currently learning **JavaScript • React.js • Tailwind CSS • Full-Stack Web Development**
 
-# 👋 হ্যালো, আমি Anwar Sadek
+- 📫 How to reach me **amd28686@gmail.com**
 
-### 🎓 Diploma in Computer Science & Technology Student | 🌐 Aspiring Full-Stack Web Developer
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/anwar28686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anwar28686" height="30" width="40" /></a>
+</p>
 
-আমি একজন Computer Science & Technology-এর শিক্ষার্থী। বর্তমানে Web Development শিখছি এবং নিয়মিত নতুন technology শেখা ও বিভিন্ন project তৈরি করার চেষ্টা করছি।
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-বর্তমানে আমি **Programming Hero**-এর মাধ্যমে Web Development শিখছি এবং নিজের skill উন্নত করার জন্য বিভিন্ন project ও coding practice করছি।
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anwarsadek&show_icons=true&locale=en&layout=compact" alt="anwarsadek" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarsadek&show_icons=true&locale=en" alt="anwarsadek" /></p>
 
-## 🚀 বর্তমানে যা শিখছি
-
-- 🌐 HTML & CSS
-- 🎨 Responsive Web Design
-- ⚡ JavaScript
-- 🌬️ Tailwind CSS
-- 🅱️ Bootstrap
-- ⚛️ React.js
-- 🔧 Git & GitHub
-
-> 🔍 বর্তমানে আমি JavaScript ও আধুনিক Web Development technology নিয়ে explore করছি।
-
----
-
-## 🎯 আমার লক্ষ্য
-
-আমার লক্ষ্য একজন দক্ষ **Full-Stack Web Developer** হওয়া এবং বাস্তব জীবনের সমস্যার জন্য সুন্দর, কার্যকর ও user-friendly web application তৈরি করা।
-
-আমি প্রতিদিন নতুন কিছু শেখার এবং নিজের coding skill উন্নত করার চেষ্টা করছি।
-
----
-
-## 🛠️ Technologies & Tools
-
-**Frontend:**
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Tailwind CSS
-
-**Tools:**
-- Git
-- GitHub
-- VS Code
-
----
-
-## 📂 আমার কিছু কাজ
-
-আমার GitHub profile-এ আমার বিভিন্ন practice, assignment এবং web development project দেখতে পারো।
-
-আমি ধীরে ধীরে আমার projectগুলো আরও উন্নত করছি এবং নতুন project যোগ করছি।
-
----
-
-## 📫 যোগাযোগ
-
-- 📧 Email: amd28686@gmail.com
-- 🐙 GitHub: [AnwarSadek](https://github.com/AnwarSadek)
-
----
-
-### 💡 "Every great developer was once a beginner who never gave up."
-
-ধন্যবাদ আমার profile দেখার জন্য! 😊
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarsadek&" alt="anwarsadek" /></p>
